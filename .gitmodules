@@ -1,0 +1,3 @@
+[submodule "io.github.emergentorganization.engine"]
+	path = io.github.emergentorganization.engine
+	url = https://github.com/EmergentOrganization/io.github.emergentorganization.engine
