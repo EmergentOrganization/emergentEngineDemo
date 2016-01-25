@@ -1,3 +1,6 @@
 [submodule "emergent2dcore"]
 	path = emergent2dcore
 	url = https://github.com/EmergentOrganization/emergent2dcore
+[submodule "core/src/io/github/emergentorganization/emergent2dcore"]
+	path = core/src/io/github/emergentorganization/emergent2dcore
+	url = https://github.com/EmergentOrganization/emergent2dcore
