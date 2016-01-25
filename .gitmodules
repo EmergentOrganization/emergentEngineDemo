@@ -1,3 +1,3 @@
-[submodule "io.github.emergentorganization.engine"]
-	path = io.github.emergentorganization.engine
-	url = https://github.com/EmergentOrganization/io.github.emergentorganization.engine
+[submodule "emergent2dcore"]
+	path = emergent2dcore
+	url = https://github.com/EmergentOrganization/emergent2dcore
